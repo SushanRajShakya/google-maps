@@ -1,0 +1,19 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "Sample app",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Sushan Raj Shakya",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "@types/google.maps": "^3.48.8"
+  }
+}

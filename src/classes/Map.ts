@@ -1,4 +1,3 @@
-import faker from '@faker-js/faker';
 import { Mappable } from '../models';
 
 export class Map {
